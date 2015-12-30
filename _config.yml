@@ -1,0 +1,12 @@
+layout_spectrum: 1
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#04061F'
+    - '#FFEABC'
+    - '#6D6D67'
+  rhythmicContrast: 0.5591398
+typography_spectrum: 1
+name: Nik Magique
